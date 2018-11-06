@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>superman.jpg</file>
+        <file>goktasi.jpg</file>
+        <file>fire.png</file>
+    </qresource>
+</RCC>
